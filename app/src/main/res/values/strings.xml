@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meditrial</string>
+    <string name="action_settings">Settings</string>
+    <string name="Signup"> Signup </string>
+    <string name="password"> password </string>
+    <string name="username"> username </string>
+    <string name="usernameSignup"> Create your username </string>
+    <string name="passwordSignup"> Create your password </string>
+</resources>
